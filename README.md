@@ -6,7 +6,7 @@ The two clusters are then used to show the enhanced pottential of forgetting in 
 
 ## Structure of execution
 - common_functions.py
-- plots.py
+- make_figures.ipynb
 
 For a better visualization of hierarchies, the tools Protege-5.5.0 and lethe-ui.sh can be used. 
 
@@ -14,4 +14,6 @@ This code requires a Python and a Java installation.
 It also requires the download of kr_functions.jar and lethe-standalone.jar, that can be found here: https://github.com/schlobac/kr_project2_explanation_by_forgetting
 
 
-**ALERT**: time of execution diverges if the forgetting method is applied for highly connected nodes in more than 10 iterations.
+**ALERT**: 
+- Time of execution diverges if the forgetting method is applied for highly connected nodes in more than 10 iterations.
+- It might be the case Kernel needs to be interrupted in main_execution() function if it stops executing. It does not affect execution of posterior functions.
