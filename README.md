@@ -7,6 +7,7 @@ The two clusters are then used to show the enhanced pottential of forgetting in 
 ## Structure of execution
 - common_functions.py
 - make_figures.ipynb
+  - Plot functions are structured in an independent way, so that they can be run according to need.
 
 For a better visualization of hierarchies, the tools Protege-5.5.0 and lethe-ui.sh can be used. 
 
