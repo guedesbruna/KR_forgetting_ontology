@@ -14,4 +14,4 @@ This code requires a Python and a Java installation.
 This code requires the download of kr_functions.jar and lethe-standalone.jar, that can be found here: https://github.com/schlobac/kr_project2_explanation_by_forgetting
 
 
-**ALERT**: the forgetting method applied for the highly connected nodes take a long time if more than 10 iterations are chosen.
+**ALERT**: time of execution diverges if the forgetting method is applied for highly connected nodes in more than 10 iterations.
