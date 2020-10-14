@@ -3,5 +3,5 @@ Forgetting Ontology is applied into OWL language in order to evaluate behavior o
 
 
 
-You can run myPrograms.py with your Python installation and you need a Java installation (I believe a runtime version is sufficient).
+This code requires a Python and a Java installation.
 This code requires the download of kr_functions.jar and lethe-standalone.jar, that can be found here: https://github.com/schlobac/kr_project2_explanation_by_forgetting
