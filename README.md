@@ -11,7 +11,7 @@ The two clusters are then used to show the enhanced pottential of forgetting in 
 For a better visualization of hierarchies, the tools Protege-5.5.0 and lethe-ui.sh can be used. 
 
 This code requires a Python and a Java installation.
-This code requires the download of kr_functions.jar and lethe-standalone.jar, that can be found here: https://github.com/schlobac/kr_project2_explanation_by_forgetting
+It also requires the download of kr_functions.jar and lethe-standalone.jar, that can be found here: https://github.com/schlobac/kr_project2_explanation_by_forgetting
 
 
 **ALERT**: time of execution diverges if the forgetting method is applied for highly connected nodes in more than 10 iterations.
