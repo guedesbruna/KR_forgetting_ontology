@@ -1,0 +1,9 @@
+http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#IceCream
+http://www.co-ode.org/ontologies/pizza/pizza.owl#FourCheesesTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#PetitPoisTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#SweetPepperTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#MixedSeafoodTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#PrawnsTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#RocketTopping
+http://www.co-ode.org/ontologies/pizza/pizza.owl#RosemaryTopping
