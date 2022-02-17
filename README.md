@@ -1,4 +1,4 @@
-# knowledge Representation project: Forgetting Ontology
+# Knowledge Representation project: Forgetting Ontology
 
 This project is based on the forgetting ontology applied into OWL language files in order to evaluate behavior of classes when forgetting different signatures.
 It provides an individual class-by-class analysis and a cluestering of both the most densely and sparsed connected classes in the dataset.
